@@ -1,5 +1,5 @@
 # ga-cv-portfolio
-Här kommer publicera exempel filer for hur man kan göra en portfolio / CV hemsida.
+Här kommer publiceras exempel filer for hur man kan göra en enkel portfolio / CV hemsida.
 
 # Tidplanering
 14 - 15: Föreläsning / teori
