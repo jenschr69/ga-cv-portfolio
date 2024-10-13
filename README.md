@@ -14,7 +14,7 @@ Att tänka på innan du registrerar ditt domännamn: https://internetstiftelsen.
 
 DNS poster - https://www.simply.com/se/support/faq/domain/ . <br>
 DNS poster Grundläggande:  What is DNS? Basics for Beginners (freecodecamp.org) . <br>
-Säkerhet SSL – sertifikat: https://letsencrypt.org/ <br>
+Säkerhet SSL – sertifikat: https://letsencrypt.org/ . <br>
 
 LinkedIN Learning: Getting your website online - https://www.linkedin.com/learning/getting-your-website-online-18759497/ . <br>
 
