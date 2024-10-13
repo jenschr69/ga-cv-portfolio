@@ -8,12 +8,12 @@ från kl 15: Workshop med instruktion och hjälp till att köpa domännamn och w
 
 # Agenda för föreläsning på Grit Academy torsdag 17.oktober 2024
 
-Vad är ett domännamn: https://internetstiftelsen.se/domaner/domannamn-vad-ar-det/ <br>
+Vad är ett domännamn: https://internetstiftelsen.se/domaner/domannamn-vad-ar-det/ . <br>
 Är mitt Svenska domännamn tillgängligt: https://internetstiftelsen.se/domaner/ .<br>
-Att tänka på innan du registrerar ditt domännamn: https://internetstiftelsen.se/domaner/registrera-ett-domannamn/tips-innan-du-registrerar-ett-domannamn/ <br>
+Att tänka på innan du registrerar ditt domännamn: https://internetstiftelsen.se/domaner/registrera-ett-domannamn/tips-innan-du-registrerar-ett-domannamn/ . <br>
 
-DNS poster - https://www.simply.com/se/support/faq/domain/ <br>
-DNS poster Grundläggande:  What is DNS? Basics for Beginners (freecodecamp.org) <br>
+DNS poster - https://www.simply.com/se/support/faq/domain/ . <br>
+DNS poster Grundläggande:  What is DNS? Basics for Beginners (freecodecamp.org) . <br>
 Säkerhet SSL – sertifikat: https://letsencrypt.org/ <br>
 
 LinkedIN Learning: Getting your website online - https://www.linkedin.com/learning/getting-your-website-online-18759497/ . <br>
