@@ -9,7 +9,7 @@ från kl 15: Workshop med instruktion och hjälp till att köpa domännamn och w
 
 Vad är ett domännamn: https://internetstiftelsen.se/domaner/domannamn-vad-ar-det/ <br>
 Är mitt Svenska domännamn tillgängligt: https://internetstiftelsen.se/domaner/ .<br>
-Att tänka på innan du registrera ditt domännamn: https://internetstiftelsen.se/domaner/registrera-ett-domannamn/tips-innan-du-registrerar-ett-domannamn/ <br>
+Att tänka på innan du registrerar ditt domännamn: https://internetstiftelsen.se/domaner/registrera-ett-domannamn/tips-innan-du-registrerar-ett-domannamn/ <br>
 
 DNS poster - https://www.simply.com/se/support/faq/domain/ <br>
 DNS poster Grundläggande:  What is DNS? Basics for Beginners (freecodecamp.org) <br>
