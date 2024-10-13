@@ -18,7 +18,7 @@ Säkerhet SSL – sertifikat: https://letsencrypt.org/
 LinkedIN Learning: Getting your website online - https://www.linkedin.com/learning/getting-your-website-online-18759497/ . 
 
 Mall för online CV: https://www.w3schools.com/w3css/tryw3css_templates_cv.htm 
-Exempelsidor: https://www.jenschr.net / https://jens.gastudent.online/ 
+Exempelsidor: https://www.jenschr.net (filer från detta repo)
 GitHub repo för exempel filer: https://github.com/jenschr69/ga-cv-portfolio .
 
 Uppgift inför föreläsning på torsdag: Skapa första sidan baserat på mallen ovanför eller gör din helt egen sida. Vi skal bara börja med lite innehåll och så arbeta därifrån.
