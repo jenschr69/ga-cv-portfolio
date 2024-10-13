@@ -1,9 +1,9 @@
 # ga-cv-portfolio
-Här kommer publiceras exempel filer for hur man kan göra en enkel portfolio / CV hemsida.
+Här kommer publiceras exempel filer for hur man kan göra en enkel portfolio / CV hemsida. <br>
 
 # Tidplanering
-14 - 15: Föreläsning / teori
-från kl 15: Workshop med instruktion och hjälp till att köpa domännamn och webbhotel (om du inte har detta innan)
+14 - 15: Föreläsning / teori<br>
+från kl 15: Workshop med instruktion och hjälp till att köpa domännamn och webbhotel (om du inte har detta innan) <br>
 
 # Agenda för föreläsning på Grit Academy torsdag 17.oktober 2024
 
