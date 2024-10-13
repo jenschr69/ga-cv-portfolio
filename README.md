@@ -7,7 +7,7 @@ från kl 15: Workshop med instruktion och hjälp till att köpa domännamn och w
 
 # Agenda för föreläsning på Grit Academy torsdag 17.oktober 2024
 
-Vad är ett domännamn: https://internetstiftelsen.se/domaner/domannamn-vad-ar-det/ 
+Vad är ett domännamn: https://internetstiftelsen.se/domaner/domannamn-vad-ar-det/ <br>
 Är mitt Svenska domännamn tillgängligt: https://internetstiftelsen.se/domaner/ .
 Att tänka på innan du registrera ditt domännamn: https://internetstiftelsen.se/domaner/registrera-ett-domannamn/tips-innan-du-registrerar-ett-domannamn/ 
 
