@@ -25,5 +25,5 @@ GitHub repo för exempel filer: https://github.com/jenschr69/ga-cv-portfolio . <
 Uppgift inför föreläsning på torsdag: Skapa första sidan baserat på mallen ovanför eller gör din helt egen sida. Vi skal bara börja med lite innehåll och så arbeta därifrån. <br>
 Titta igenom LinkedIN Learning kursen (gratis provperiod). <br>
 
-Workshop: Vi köper domännamn och hemsida – Investering ca 100 kr för första året. (Betalas av dig själv som student.) <br>
+Workshop: Vi köper domännamn och hemsida – Investering ca 100 kr för första året. NB! Betalas av dig själv som student. <br>
 
