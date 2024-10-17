@@ -22,7 +22,6 @@ Säkerhet SSL – sertifikat: https://letsencrypt.org/ . <br>
 LinkedIN Learning: Getting your website online - https://www.linkedin.com/learning/getting-your-website-online-18759497/ . <br>
 
 Mall för online CV: https://www.w3schools.com/w3css/tryw3css_templates_cv.htm <br>
-Exempelsidor: https://www.jenschr.net (filer från detta repo) <br>
 GitHub repo för exempel filer: https://github.com/jenschr69/ga-cv-portfolio . <br>
 
 Uppgift inför föreläsning på torsdag 31.oktober:
