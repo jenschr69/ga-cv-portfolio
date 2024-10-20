@@ -5,8 +5,8 @@ NB! Gör uppgift om du vill förbereda dig lite. <br>
 
 # Tidplanering
 
-14 - 15: Föreläsning / teori<br>
-från kl 15: Workshop med instruktion och hjälp till att köpa domännamn och webbhotel (om du inte har detta innan) <br>
+15.30: Föreläsning / teori<br>
+från ca. kl 16.30: Workshop med instruktion och hjälp till att köpa domännamn och webbhotel (om du inte har detta innan) <br>
 
 # Agenda för föreläsning på Grit Academy torsdag 31.oktober 2024 - NB! Nytt datumn
 
