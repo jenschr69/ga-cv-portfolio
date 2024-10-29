@@ -22,11 +22,11 @@ Säkerhet SSL – sertifikat: https://letsencrypt.org/ . <br>
 LinkedIN Learning: Getting your website online - https://www.linkedin.com/learning/getting-your-website-online-18759497/ . <br>
 
 Mall för online CV: https://www.w3schools.com/w3css/tryw3css_templates_cv.htm <br>
-GitHub repo för exempel filer: https://github.com/jenschr69/ga-cv-portfolio . <br>
+GitHub repo för exempel filer: https://github.com/jenschr69/ga-cv-portfolio <br>
 <br>
 Min personliga anpassning:
 GitHub repo: https://github.com/jenschr69/JensChr-CV-GitHub <br>
-Public url med custom domain: https://cv.jenschrchristensen.com/ <br>
+Public url: https://www.jenschr.net/ <br>
 
 Uppgift inför föreläsning på torsdag 31.oktober:
 Skapa första sidan baserat på mallen ovanför eller gör din helt egen sida. Vi skal bara börja med lite innehåll och så arbeta därifrån. <br>
