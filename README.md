@@ -36,3 +36,4 @@ Workshop: Vi köper domännamn och hemsida – Investering ca 100 kr för först
 
 Vid frågor: Kontakta Jens Chr Christensen jens.christensen@gritacademy.se <br>
 Mobil: 070 486 2531 <br>
+Så hjälper jag gärna i mån av tid.
