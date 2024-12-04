@@ -4,12 +4,10 @@ Här kommer publiceras exempel filer for hur man kan göra en enkel portfolio / 
 NB! Gör uppgift om du vill förbereda dig lite. <br>
 
 # Tidplanering
-
-15.30: Föreläsning / teori<br>
-från ca. kl 16.30: Workshop med instruktion och hjälp till att köpa domännamn och webbhotel (om du inte har detta innan) <br>
+Kursen är beräknad att ta 4 timmar
 
 # Agenda
-
+Köp/beställning av domännamn och webhotel från Simply.com - Investering ca 100 kr för första året. NB! Betalas av dig själv som student.<br>
 Vad är ett domännamn: https://internetstiftelsen.se/domaner/domannamn-vad-ar-det/ . <br>
 Är mitt Svenska domännamn tillgängligt: https://internetstiftelsen.se/domaner/ .<br>
 Att tänka på innan du registrerar ditt domännamn: https://internetstiftelsen.se/domaner/registrera-ett-domannamn/tips-innan-du-registrerar-ett-domannamn/ . <br>
@@ -28,11 +26,11 @@ Min personliga anpassning:
 GitHub repo: https://github.com/jenschr69/JensChr-CV-GitHub <br>
 Public url: https://www.jenschr.net/ <br>
 
-Uppgift inför föreläsning på torsdag 31.oktober:
+Uppgift inför föreläsning:
 Skapa första sidan baserat på mallen ovanför eller gör din helt egen sida. Vi skal bara börja med lite innehåll och så arbeta därifrån. <br>
 Titta igenom LinkedIN Learning kursen (gratis provperiod). <br>
 
-Workshop: Vi köper domännamn och hemsida – Investering ca 100 kr för första året. NB! Betalas av dig själv som student. <br>
+Workshop: Vi köper domännamn och hemsida<br>
 
 Vid frågor: Kontakta Jens Chr Christensen jens.christensen@gritacademy.se <br>
 Mobil: 070 486 2531 <br>
