@@ -8,7 +8,7 @@ NB! Gör uppgift om du vill förbereda dig lite. <br>
 15.30: Föreläsning / teori<br>
 från ca. kl 16.30: Workshop med instruktion och hjälp till att köpa domännamn och webbhotel (om du inte har detta innan) <br>
 
-# Agenda för föreläsning på Grit Academy torsdag 31.oktober 2024 - NB! Nytt datumn
+# Agenda
 
 Vad är ett domännamn: https://internetstiftelsen.se/domaner/domannamn-vad-ar-det/ . <br>
 Är mitt Svenska domännamn tillgängligt: https://internetstiftelsen.se/domaner/ .<br>
